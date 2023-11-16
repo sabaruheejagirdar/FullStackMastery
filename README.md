@@ -1,3 +1,4 @@
 # FullStackMastery
 ## HTML CSS JavaScript
-### Check Projects + output in the respective folders
+### Check Projects + output_screenshot in the respective folders
+###\
